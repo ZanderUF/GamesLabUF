@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to the Gateway for Advanced Modeling and Simulation
+This repository is geared to provide members of the group a single place to find all resources to be a productive member of the lab.
 
-You can use the [editor on GitHub](https://github.com/ZanderUF/GamesLabUF/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## High Level Overview of Resources Described Here
+- Expectations of group members behavior
+- Checklist for new students
+- Manual for T-ReX software
+- Exit checklist for departing students
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Support or Contact
 
-### Markdown
+If the issue is related to the content on this repository please create an 'issue' under the Issues tab.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZanderUF/GamesLabUF/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Send an email to goluoglu@mse.ufl.edu zanderm@ufl.edu 
